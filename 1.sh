@@ -15,4 +15,3 @@ sudo groupadd old_people
 sudo groupadd young_people
 sudo snap install tree
 tree
-echo 'sweet_home is ready'
