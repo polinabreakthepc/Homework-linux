@@ -1,4 +1,5 @@
 #!/bin/bash
+
 option=$1
 word=$2
 
